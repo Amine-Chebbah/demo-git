@@ -6,3 +6,7 @@ This is the first file in this repo
 
 Hello there I am amine the last air bander . 
 
+## new additions
+
+Today is a good day !
+
